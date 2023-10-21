@@ -23,7 +23,7 @@ const Footer = () => {
           </div>
 
           <div className='box'>
-            <h2>NAVIGATION</h2>
+            <h2>NAVIGATION BAR </h2>
             <ul>
               <li>
                 <Link to='/'>Home</Link>
